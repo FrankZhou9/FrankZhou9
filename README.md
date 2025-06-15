@@ -4,7 +4,7 @@
 <h3 align="center">A passionate JavaEngineer from FuZhou</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Qv0yXn0Q2m74n2RjLh/giphy.gif" width="60" />  <em>🔭 I’m currently working on SHINE Technology. 2023.07 ~ now.</em>
+   <em>🔭 I’m currently working on SHINE Technology. 2023.07 ~ now.</em>
 </p>
 
 
